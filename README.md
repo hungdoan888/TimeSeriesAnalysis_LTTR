@@ -7,7 +7,6 @@
 
 # Screen Shots
 ![Alt text](lttr.png?raw=true "lttr.png")
-![Alt text](lag2plot.png?raw=true "lag2plot.png")
 ![Alt text](sarima111.jpeg?raw=true "sarima111.jpeg")
 ![Alt text](sarima_predict.png?raw=true "sarima_predict.png")
 
