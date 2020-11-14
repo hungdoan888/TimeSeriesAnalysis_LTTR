@@ -1,4 +1,4 @@
-# TimeSeriesAnalysis_LTTR
+# Time Series Analysis (Forecasting Load to Truck Ratios)
 - Use time series models including AR, MA, ARMA, ARIMA, SARIMA, and GARCH models to forecast load to truck ratios (LTTR) in the LA area
 - <a href="STA_5250_Project.pdf" target="_blank">STA_5250_Project.pdf</a>
 
