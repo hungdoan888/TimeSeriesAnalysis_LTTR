@@ -15,4 +15,4 @@
 - R
 
 # How to use
-Run Project_main.R to generate plots
+- Run Project_main.R to generate plots
