@@ -10,3 +10,9 @@
 ![Alt text](lag2plot.png?raw=true "lag2plot.png")
 ![Alt text](sarima111.jpeg?raw=true "sarima111.jpeg")
 ![Alt text](sarima_predict.png?raw=true "sarima_predict.png")
+
+# Tech/framework used
+- R
+
+# How to use
+Run Project_main.R to generate plots
