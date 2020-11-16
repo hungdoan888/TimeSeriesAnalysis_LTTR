@@ -12,6 +12,13 @@
 
 # Tech/framework used
 - R
+- Libraries:
+  - library(astsa)
+  - library(forecast)
+  - library(fGarch)
+  - library(tseries)
+  - library(rugarch)
+  - library(readxl)
 
 # How to use
 - Run Project_main.R to generate plots
